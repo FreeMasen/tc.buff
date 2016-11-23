@@ -1,0 +1,22 @@
+{
+  "name": "tc.buff",
+  "version": "0.2.0",
+  "description": "TC BuffaloWings Club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freemasen/tc.buff.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freemasen/tc.buff/issues"
+  },
+  "homepage": "https://github.com/freemasen/tc.buff#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
